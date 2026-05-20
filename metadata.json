@@ -1,0 +1,6 @@
+{
+  "name": "Holiday Content & Graphic Creator",
+  "description": "A simplified, fully local and independent application for social media managers to draft festive holiday posts and customize themed social graphics using local templates and AI copy assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
