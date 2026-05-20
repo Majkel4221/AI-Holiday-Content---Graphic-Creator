@@ -18,3 +18,6 @@ AI-powered content and graphic generator designed to automate seasonal marketing
 - Full-stack AI integration and working with Google AI Studio
 - Dynamic asset and visual layer management in a web browser
 - Cloud deployment and serverless application hosting
+
+## Live Demo
+[Open Application]((https://ais-pre-jyf3nmwlgjjksvc5hgd4ke-752146356732.europe-west2.run.app))
