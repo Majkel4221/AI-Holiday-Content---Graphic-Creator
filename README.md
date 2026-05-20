@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Social Holiday Studio
 
-# Run and deploy your AI Studio app
+## Project Description
+AI-powered content and graphic generator designed to automate seasonal marketing and social media post creation.
 
-This contains everything you need to run your app locally.
+## Features
+- AI post generation based on selected holidays and specific marketing campaign details
+- Integrated graphic studio for real-time visual editing and content customization
+- Tailored target audience matching with distinct tones of voice
 
-View your app in AI Studio: https://ai.studio/apps/378af5fa-2b62-4a8d-a158-0c158438ec56
+## Tools Used
+- Google Gemini API
+- React / Vite
+- Node.js & Express
+- Google Cloud Run
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## What I Learned
+- Full-stack AI integration and working with Google AI Studio
+- Dynamic asset and visual layer management in a web browser
+- Cloud deployment and serverless application hosting
