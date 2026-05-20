@@ -20,4 +20,4 @@ AI-powered content and graphic generator designed to automate seasonal marketing
 - Cloud deployment and serverless application hosting
 
 ## Live Demo
-[Open Application]((https://ais-pre-jyf3nmwlgjjksvc5hgd4ke-752146356732.europe-west2.run.app))
+[Open Application] ((https://ais-pre-jyf3nmwlgjjksvc5hgd4ke-752146356732.europe-west2.run.app))
